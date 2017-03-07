@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="RadioButtonAUD">AUD</string>
+    <string name="RadioButtonMYR">MYR</string>
+    <string name="RadioButtonSGD">SGD</string>
+    <string name="ConvertTo">Convert to</string>
+    <string name="RadioButtonUSD">USD</string>
+    <string name="RadioButtonNZD">NZD</string>
+    <string name="ButtonConvert">Convert</string>
+    <string name="ButtonClear">Clear</string>
+</resources>
+
